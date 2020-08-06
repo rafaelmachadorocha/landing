@@ -32,7 +32,7 @@
   color: #282828;
 }
 
-@media (min-width: 576px) {
+@media (max-width: 410px) {
   .banner-info {
     width: 90%;
   }
