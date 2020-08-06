@@ -19,6 +19,7 @@
   background-color: rgba(255, 255, 255, .6);
   border-radius: 10px;
   padding: 30px;
+  margin: 0 30px;
 }
 #start {
   margin: 1em;
@@ -30,10 +31,4 @@
 }
 #important { 
   color: #282828;
-}
-
-@media (max-width: 410px) {
-  .banner-info {
-    max-width: 90%;
-  }
 }
