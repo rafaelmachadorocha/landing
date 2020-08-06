@@ -1,0 +1,29 @@
+.footer-transparent {
+  background-color: rgba(24, 96, 161, .5);
+  width: 100%;
+  color: rgb(210, 210, 210);
+  font-size: 20px;
+  padding: 5px;
+}
+.footer-transparent p {
+  font-size: 16px;
+}
+.footer-transparent a {
+  color: lightgrey;
+  font-size: 20px;
+}
+.footer-transparent a:hover {
+  color: #D23333;
+}
+.list {
+  padding: 0;
+  margin: 0;
+}
+.list li {
+  display: inline-block;
+  list-style: none;
+  margin: 5px;
+}
+
+
+

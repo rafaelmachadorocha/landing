@@ -1,0 +1,44 @@
+.banner h1 {
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 0 0 5px #2F2F2F;
+  color: #D23333;
+  font-weight: lighter;
+  font-size: 70px;
+}
+.banner h2 {
+  margin: 1em 0;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 1px 1px 3px #4D4C49;
+  color: #D23333;
+  font-weight: lighter;
+  font-size: 40px;
+}
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 70%), url('../../images/background.jpg');
+  background-size: cover;
+  background-position: bottom 40% left 10%;
+}
+.banner-info {
+  font-weight: bold;
+  background-color: rgba(255, 255, 255, .6);
+  padding: 10px;
+  border-radius: 10px;
+  padding: 30px;
+}
+#start {
+  margin: 1em;
+  background-color: #D23333;
+  border-color: rgba(0,0,0,0.2);
+}
+#start:hover {
+  text-shadow: 0 0 4px white;
+}
+#important { 
+  color: #282828;
+}
