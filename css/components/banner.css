@@ -24,8 +24,9 @@
 }
 #start {
   margin: 1em;
-  background-color: #217AC1;
+  background-color: #3a8fd4;
   border-color: rgba(0,0,0,0.2);
+  color: white;
 }
 #start:hover {
   text-shadow: 0 0 4px white;
