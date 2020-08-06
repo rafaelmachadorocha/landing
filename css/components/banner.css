@@ -35,5 +35,6 @@
 @media (max-width: 360px) {
   .banner-info {
     border-radius: 0;
+    height: 100%;
   }
 }
