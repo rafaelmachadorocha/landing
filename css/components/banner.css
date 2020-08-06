@@ -25,7 +25,6 @@
 #start {
   margin: 1em;
   background-color: #3a8fd4;
-  border-color: rgba(0,0,0,0.2);
   color: white;
 }
 #start:hover {
