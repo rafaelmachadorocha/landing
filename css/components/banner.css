@@ -31,3 +31,9 @@
 #important { 
   color: #282828;
 }
+
+@media (max-width: 360px) {
+  .banner-info {
+    border-radius: none;
+  }
+}
