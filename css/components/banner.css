@@ -34,6 +34,6 @@
 
 @media (max-width: 410px) {
   .banner-info {
-    width: 90%;
+    max-width: 90%;
   }
 }
